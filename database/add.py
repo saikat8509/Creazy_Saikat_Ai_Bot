@@ -1,4 +1,4 @@
-# with Love @Leazy_Boy 💘
+# with Love @LeazyDeveloper 💘
 
 from database.users_chats_db import db
 from pyrogram import Client
